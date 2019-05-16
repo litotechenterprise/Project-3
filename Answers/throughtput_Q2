@@ -1,0 +1,9 @@
+root@mininet-vm:~/dam# iperf -s
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 40] local 10.0.0.1 port 5001 connected with 10.0.0.4 port 44956
+[ ID] Interval       Transfer     Bandwidth
+[ 40]  0.0-23.8 sec  42.9 MBytes  15.2 Mbits/sec
+sent= 4199214 KB rate= 20.5 Mbps

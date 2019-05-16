@@ -1,0 +1,4 @@
+41] local 10.0.0.3 port 5001 connected with 10.0.0.4 port 40010
+[ 41]  0.0-22.3 sec  56.1 MBytes  21.1 Mbits/sec
+
+sent= 5489802 KB rate= 26.8 Mbps

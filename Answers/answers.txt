@@ -1,0 +1,14 @@
+Q2)
+    I'm not sure how to make a proper predictions on the latency or bandwidth. However Im sure that the
+    Latency will be affect much greater than the Bandwith. Latency Will be affected because it will
+    upheld by every delay on its way. From H1 to H4. Counting the delay from h1 to h4 it the latency should
+     be 80. My Guess was correct 
+
+Q3)
+    I Still dont how to make a proper predictions, However im postive that during this experiment the
+    Bandwith will be affected because more flowing is traveling throgh the same port at the same time causeing 
+    congesting. The Bandwidth should he slow down
+
+Q4)
+    the Latency for h1 to h4 should be at best = 80ms
+    the Latency for h5 to h6 should be at best = 20ms

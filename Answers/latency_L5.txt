@@ -1,0 +1,4 @@
+h6 ping -c20 h3
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 10.254/11.193/16.069/1.191 ms
+Latency = 5ms
