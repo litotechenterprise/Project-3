@@ -1,0 +1,14 @@
+root@mininet-vm:~/dam# iperf -c
+iperf: option requires an argument -- c
+Usage: iperf [-s|-c host] [options]
+Try `iperf --help' for more information.
+root@mininet-vm:~/dam# iperf -s
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 40] local 10.0.0.3 port 5001 connected with 10.0.0.6 port 58106
+[ ID] Interval       Transfer     Bandwidth
+[ 40]  0.0-23.0 sec  51.2 MBytes  18.7 Mbits/sec
+
+sent= 5013626 KB rate= 24.400000000000002 Mbps
